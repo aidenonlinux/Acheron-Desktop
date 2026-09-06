@@ -1,4 +1,4 @@
-# 🌌 Acheron Desktop (Normal Edition)
+# 🌌 Acheron Desktop (Normal Edition, version 1.0)
 
 Welcome to **Acheron Desktop**, an extremely minimalist, bloat-free Linux distribution built on top of a barebones **Debian Linux** base. Named after the legendary Extreme Demon from Geometry Dash, this system is engineered for maximum performance, low input lag, and zero bullshit.
 
@@ -43,3 +43,7 @@ What You Must Do (Conditions)
 ## Credits
 This OS has been made with the Cubic software.
 So thanks for the Cubic devs to make this software. (Else this would be harder)
+
+## NOTICES ⚠️
+Direct software-updates for the OS (excluding apps like Firefox because they can be updated by APT) **arent supported yet**.
+If you want to update your system, you need to download the iso manually and cause the risk of losing your files. (so back up your system before updating)
